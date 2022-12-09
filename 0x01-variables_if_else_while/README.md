@@ -6,4 +6,24 @@ Task 2 - Creates a C program that prints the alphabets in lowercase followed by 
 
 Task 3 - Creates a C program that prints the alphabets in lowercase, and then in uppercase followed by a new line.
 
-Task 4 - Creates a C program that 
+Task 4 - Creates a C program that prints the alphabets in lowercase, without q and e.
+
+Task 5 - Creates a C program that 
+
+Task 6 - Creates a C program that
+
+Task 7 - Creates a C program that 
+
+Task 8 - Creates a C program that
+
+Task 9 - Creates a C program that
+
+Task 10 - Creates a C program that 
+
+Task 11 - Creates a C program that
+
+Task 12 - Creates a C program that
+
+Task 13 - Creates a C program that
+
+Task 14 - Creates a C program that 

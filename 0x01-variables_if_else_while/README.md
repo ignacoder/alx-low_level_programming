@@ -16,7 +16,7 @@ Task 7 - Creates a C program that prints the lowercase alphabets in reverse, fol
 
 Task 8 - Creates a C program that prints all the numbers of base 16 in lowercase, followed by a new line.
 
-Task 9 - Creates a C program that
+Task 9 - Creates a C program that prints all possible combinations of single-digit numbers.
 
 Task 10 - Creates a C program that 
 
@@ -25,5 +25,3 @@ Task 11 - Creates a C program that
 Task 12 - Creates a C program that
 
 Task 13 - Creates a C program that
-
-Task 14 - Creates a C program that 

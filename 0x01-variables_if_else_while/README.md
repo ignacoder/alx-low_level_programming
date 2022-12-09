@@ -20,8 +20,6 @@ Task 9 - Creates a C program that prints all possible combinations of single-dig
 
 Task 10 - Creates a C program that prints different combinations of two digits. 
 
-Task 11 - Creates a C program that
+Task 11 - Creates a C program that prints all possible combinations of three digits numbers.
 
-Task 12 - Creates a C program that
-
-Task 13 - Creates a C program that
+Task 12 - Creates a C program that prints combinations of two two-digits numbers.

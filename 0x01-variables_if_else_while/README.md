@@ -14,7 +14,7 @@ Task 6 - Creates a C program that prints all single digit numbers of base 10 sta
 
 Task 7 - Creates a C program that prints the lowercase alphabets in reverse, followed by a new line.
 
-Task 8 - Creates a C program that
+Task 8 - Creates a C program that prints all the numbers of base 16 in lowercase, followed by a new line.
 
 Task 9 - Creates a C program that
 

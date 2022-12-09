@@ -10,7 +10,7 @@ Task 4 - Creates a C program that prints the alphabets in lowercase, without q a
 
 Task 5 - Creates a C program that prints all single digit numbers of base 10 starting from 0 followed by a new line. 
 
-Task 6 - Creates a C program that
+Task 6 - Creates a C program that prints all single digit numbers of base 10 starting from 0 using putchar function only.
 
 Task 7 - Creates a C program that 
 

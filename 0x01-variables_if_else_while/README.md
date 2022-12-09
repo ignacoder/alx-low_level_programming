@@ -12,7 +12,7 @@ Task 5 - Creates a C program that prints all single digit numbers of base 10 sta
 
 Task 6 - Creates a C program that prints all single digit numbers of base 10 starting from 0 using putchar function only.
 
-Task 7 - Creates a C program that 
+Task 7 - Creates a C program that prints the lowercase alphabets in reverse, followed by a new line.
 
 Task 8 - Creates a C program that
 

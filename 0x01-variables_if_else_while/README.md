@@ -8,7 +8,7 @@ Task 3 - Creates a C program that prints the alphabets in lowercase, and then in
 
 Task 4 - Creates a C program that prints the alphabets in lowercase, without q and e.
 
-Task 5 - Creates a C program that 
+Task 5 - Creates a C program that prints all single digit numbers of base 10 starting from 0 followed by a new line. 
 
 Task 6 - Creates a C program that
 

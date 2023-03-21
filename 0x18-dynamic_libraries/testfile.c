@@ -9,7 +9,7 @@
 
 int main(void)
 {
-	printf("==> %d\n", _strlen("Ignatius Okon"));
+	printf("==> %d\n", _strlen("IgnatiusOkon"));
 
 	return (0);
 }
